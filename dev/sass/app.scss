@@ -1,11 +1,6 @@
-// Hometown Investors Setup
-// COMPONENTS
+@use "sass:map";
 
-//@import 'fonts';
-@import 'global';
-
-//@import 'header';
-@import 'footer';
-
-
-
+@import "variables";
+@import "global";
+@import "page";
+@import "sections";
